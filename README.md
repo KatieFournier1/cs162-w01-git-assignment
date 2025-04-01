@@ -1,3 +1,2 @@
-# Git-Assignment
-Git Functions Assignment
+# Git Functions Assignment
 This is for CS 162
